@@ -1,0 +1,7 @@
+.mainWrapper {
+	@apply bg-gradient-colors h-screen flex items-center justify-center;
+	.divWrapper {
+		@apply bg-white w-[544px] h-[864px] rounded-xl shadow-big px-[65px] py-[45px]
+	}
+}
+
