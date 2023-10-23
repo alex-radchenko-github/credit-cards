@@ -2,7 +2,7 @@
   @apply bg-gradient-colors h-screen flex items-center justify-center;
 }
 .mainWrapper .divWrapper {
-  @apply bg-white w-[544px] h-[864px] rounded-xl shadow-big px-[65px] py-[45px];
+  @apply bg-white w-[544px] rounded-xl shadow-big px-[65px] py-[45px] space-y-6;
 }
 
 /*# sourceMappingURL=page.module.css.map */
